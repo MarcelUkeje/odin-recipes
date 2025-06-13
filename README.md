@@ -7,6 +7,5 @@ The project would show everything I have learnt as it regards Git, HTML,and Java
 I am excited at my progress.
 
 ## Attribution
-Photo on my jollof rice recipes page by Keesha's Kitchen on Unsplash
-Photos on my pages for egusi soup and beans from Pinterest
-      
+- Photo on my jollof rice recipes page by Keesha's Kitchen on Unsplash  
+- Photos on my pages for egusi soup and beans from Pinterest
