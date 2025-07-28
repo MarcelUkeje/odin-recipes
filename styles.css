@@ -1,3 +1,14 @@
-* {
+body {
     background-color: rgb(198, 231, 230);
+    margin: 0 0 auto;
+}
+
+h1 {
+    font-family: "Lucida Console", "Courier New", monospace;
+    color: blue;
+    text-align: center;
+    background-color: rgb(228, 100, 100);
+    margin: 0;
+    justify-content: center;
+    padding: 8px;
 }
